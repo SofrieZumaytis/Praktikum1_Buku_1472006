@@ -30,7 +30,7 @@ namespace Praktikum1_Buku_1472006.Migrations
                 new Models.Book { Title = "Bodrex", ISBN = "123456", Year = 2016, Author = "aaa", Publisher = "lalala" },
                 new Models.Book { Title = "Bodrex2", ISBN = "1234567", Year = 2026, Author = "aaa2", Publisher = "2lalala" }
                 );
-            //
+            
         }
     }
 }
